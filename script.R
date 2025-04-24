@@ -50,4 +50,3 @@ hist(popes$duration_years,
      main = "Distribuzione della Durata dei Pontificati",
      xlab = "Durata (anni)",
      ylab = "Numero di papi")
-  
